@@ -1,0 +1,174 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inconsolata', monospace;
+}
+a{
+    text-decoration: none;
+}
+.hero{
+    width: 100%;
+    height: 100vh;
+    background: url(lauren.jpg)
+    background-size: cover;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 100px;
+}
+.logo{
+    max-height: 60px;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+nav ul li a{
+    color: #1d1d24;
+    position: relative;
+    padding: 5px 0;
+}
+nav ul li a:hover{
+    color: #33AB5F;
+}
+nav ul li a:after{
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 0;
+    height: 3px;
+    background: #33AB5F;
+    transition: .3s;
+    bottom: 0;
+}
+nav ul li a:hover:after{
+    width: 100%;
+}
+.btn{
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 16px 40px;
+    border-radius: 500px;
+    display: inline-block;
+    font-weight: 500;
+    transition: all .4s ease-in-out;
+    background-size: 152% 100%;
+    background: #33AB5F;
+    border: 2px solid #33AB5F;
+}
+.btn:hover{
+    background: transparent;
+    border-color: #33AB5F;
+    color: #33AB5F;
+}
+.content{
+    position: absolute;
+    top: 35%;
+    left: 8%;
+}
+.content .title{
+    color: #1f1f25;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    display: inline-block;
+    margin-bottom: 20px;
+    background: linear-gradient(120deg, #BFA8BB 20.69%, #8CDBA9 50.19%,#33AB5F 79.69%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.content h1{
+    color: #1f1f25;
+    font-size: 75px;
+    font-weight: 900;
+    line-height: 90px;
+    text-transform: inherit;
+    width: 70%;
+}
+.content h1 span{
+    color: #33AB5F;
+}
+.content p{
+    width: 55%;
+    color: #757575;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.about-section {
+    color: #757575;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+.about-section h2{ 
+    color: #33AB5F;
+    margin-bottom: 30px;
+}
+
+.skills-section {
+    color: #757575;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+.skills-section h2{
+    color: #8CDBA9;
+    margin-bottom: 30px;
+}
+
+.my-work {
+    color: #757575;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+.my-work h2 {
+    color: #BFA8BB;
+    margin-bottom: 30px;
+}
+
+.my-work p {
+    margin-bottom: 30px;
+}
+
+.my-work img {
+    max-width: 80%;
+    margin-bottom: 30px;
+}
+
+.contact-me {
+    color: #757575;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+.contact-me h2 {
+    margin-bottom: 30px;
+}
+
+.contact-me a{
+    color: black;
+}
+
+.contact-me a:hover{
+    color: #F64473;
+}
+
+
+.info {
+    text-align: center;
+}
