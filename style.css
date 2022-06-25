@@ -93,6 +93,12 @@ nav ul li a:hover:after{
     font-weight: bold;
 }
 
+/*INCLUDES ABOUT, SKILLS, MY WORK, & CONTACT*/
+
+.info {
+    text-align: center;
+}
+
 /*ABOUT ME*/
 
 .about-section {
@@ -173,8 +179,3 @@ nav ul li a:hover:after{
     color: #F64473;
 }
 
-/*INCLUDES ABOUT, SKILLS, MY WORK, & CONTACT*/
-
-.info {
-    text-align: center;
-}
