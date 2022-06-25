@@ -10,3 +10,4 @@ This is my portfolio, which contains an image, navigation, and several sections 
 ## Screenshots of completed assignment
 <img width="1786" alt="portfolio-screenshot-1" src="https://user-images.githubusercontent.com/106932259/175789166-8c75e16e-5572-4f52-807f-0c4af37f3d79.png">
 <img width="1762" alt="portfolio-screenshot-2" src="https://user-images.githubusercontent.com/106932259/175789174-6ee50b00-21de-46b5-9702-295f721e8aa1.png">
+## Live link of site/portfolio
