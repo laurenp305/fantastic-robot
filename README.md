@@ -8,7 +8,7 @@ This is my portfolio, which contains an image, navigation, and several sections 
 - Users are deployed to work/application when they click on images
 - Users are presented with a responsive layout that adapts to their viewport when they resize the page or view the site on various screens and devices
 ## Screenshots of completed assignment
-<img width="1786" alt="portfolio-screenshot-1" src="https://user-images.githubusercontent.com/106932259/175789166-8c75e16e-5572-4f52-807f-0c4af37f3d79.png">
-<img width="1762" alt="portfolio-screenshot-2" src="https://user-images.githubusercontent.com/106932259/175789174-6ee50b00-21de-46b5-9702-295f721e8aa1.png">
+<img width="1777" alt="portfolio-screenshot-1" src="https://user-images.githubusercontent.com/106932259/175791408-7a07915f-4938-4b35-af9d-8e784218b410.png">
+<img width="1761" alt="portfolio-screenshot-2" src="https://user-images.githubusercontent.com/106932259/175791412-a4ecf41a-86c9-45d7-8f3a-c96adf642535.png">
 ## Live link of site/portfolio
 https://laurenp305.github.io/fantastic-robot/
