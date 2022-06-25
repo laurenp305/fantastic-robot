@@ -14,12 +14,15 @@ a{
     background-size: cover;
 }
 
+/*NAVIGATION*/
+
 nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 30px 100px;
 }
+
 .logo{
     max-height: 60px;
 }
@@ -49,25 +52,7 @@ nav ul li a:after{
 nav ul li a:hover:after{
     width: 100%;
 }
-.btn{
-    color: #fff;
-    font-size: 16px;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    padding: 16px 40px;
-    border-radius: 500px;
-    display: inline-block;
-    font-weight: 500;
-    transition: all .4s ease-in-out;
-    background-size: 152% 100%;
-    background: #33AB5F;
-    border: 2px solid #33AB5F;
-}
-.btn:hover{
-    background: transparent;
-    border-color: #33AB5F;
-    color: #33AB5F;
-}
+
 .content{
     position: absolute;
     top: 35%;
