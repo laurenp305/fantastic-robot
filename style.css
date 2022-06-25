@@ -85,7 +85,7 @@ nav ul li a:hover:after{
 }
 .content p{
     width: 55%;
-    color: #757575;
+    color: black;
     margin-top: 25px;
     margin-bottom: 30px;
     font-weight: bold;
@@ -94,7 +94,7 @@ nav ul li a:hover:after{
 /*ABOUT ME*/
 
 .about-section {
-    color: #757575;
+    color: #1f1f25;
     margin-top: 25px;
     margin-bottom: 50px;
     font-weight: bold;
