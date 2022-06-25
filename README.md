@@ -1,5 +1,5 @@
 # Portfolio Assignment
-My portfolio which contains an image, navigation, and several sections users can get to when they click on naviation options. 
+This is my portfolio, which contains an image, navigation, and several sections users can get to when they click on naviation options. 
 ##Portfolio meets the following criteria:
 - Sample of my work
 - My name, a recent photo or avatar, and links to sections about me, my work, and how to contact me
