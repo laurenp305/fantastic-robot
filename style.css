@@ -145,6 +145,10 @@ nav ul li a:hover:after{
     max-width: 70%;
 }
 
+.my-work .img1:hover {
+    max-width: 80%;
+}
+
 /*CONTACT ME*/
 
 .contact-me {
