@@ -137,8 +137,12 @@ nav ul li a:hover:after{
 }
 
 .my-work img {
-    max-width: 80%;
+    max-width: 50%;
     margin-bottom: 30px;
+}
+
+.my-work .img1 {
+    max-width: 70%;
 }
 
 /*CONTACT ME*/
